@@ -1,6 +1,6 @@
-module github.com/crewjam/saml/samlidp
+module github.com/liucy1983/saml/samlidp
 
-replace github.com/crewjam/saml => ../
+replace github.com/liucy1983/saml => ../
 
 go 1.16
 
